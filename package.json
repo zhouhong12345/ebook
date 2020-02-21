@@ -1,0 +1,23 @@
+{
+  "name": "ebook",
+  "version": "1.0.0",
+  "description": "这是一个 GitBook 自动化构建的 Demo。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouhong12345/ebook.git"
+  },
+  "keywords": [],
+  "author": "zhouhong12345",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhouhong12345/ebook/issues"
+  },
+  "homepage": "https://github.com/zhouhong12345/ebook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
